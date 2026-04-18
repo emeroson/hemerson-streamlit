@@ -108,8 +108,9 @@ scikit-learn>=1.4.0
 joblib>=1.3.0
 plotly>=5.20.0
 
+## lien de l'app
 
-
+https://hemerson-app.streamlit.app/
 
 ## 👤 Auteur
 
